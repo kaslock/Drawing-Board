@@ -1,5 +1,6 @@
 # Painter
-----------------------------
+
+A drawing board in processing.
 
 Screenshot
 ----------------------------
